@@ -24,7 +24,7 @@ Project under development.
 1. Clone the repository
   * `git clone git@github.com:CrisSouzaMA/trybetodolist.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd Projeto-3-To-Do-List`
+    * `cd Projeto-4-TRYBEWARTS`
 
 2. Initialize the project
     * `npm start` (a new page should open in your browser with the project)
